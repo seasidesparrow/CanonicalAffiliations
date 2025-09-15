@@ -7,22 +7,22 @@ These are files used by the ADS Abstract Service (ui.adsabs.harvard.edu)
 to normalize institutional affiliations.  The following files are included:
 
 - parent_child.tsv, a tab separated file containing:
- - `parent id`, `child id`, `abbreviated affiliation`, `canonical affiliation`
+  - `parent id`, `child id`, `abbreviated affiliation`, `canonical affiliation`
 
 - country_parent_child.tsv, a tab separated file containing:
- - `country`, `parent id`, `child id`, `abbreviated affiliation`, `canonical affiliation`
+  - `country`, `parent id`, `child id`, `abbreviated affiliation`, `canonical affiliation`
 
 - historically_black_colleges_universities.tsv, a tab separated file containing:
- - `child id`, `canonical affiliation`
- - Includes all federally-recognized HBCUs as of September 15, 2025
+  - `child id`, `canonical affiliation`
+  - Includes all federally-recognized HBCUs as of September 15, 2025
 
 - tribal_colleges_universities.tsv, a tab separated file containing:
- - `child id`, `canonical affiliation`
- - Includes only tribally-controlled institutions
- - Does not include public schools with significant Native American/First Nations enrollment
+  - `child id`, `canonical affiliation`
+  - Includes only tribally-controlled institutions
+  - Does not include public schools with significant Native American/First Nations enrollment
 
 - ROR_ADS.tsv, a tab separated file containing:
- - `ROR`, `ads_id` where ads_id might be a parent/child combination 
+  - `ROR`, `ads_id` where ads_id might be a parent/child combination 
 
 - README.md (this file) 
 

@@ -1063,10 +1063,10 @@ A00674	A11139	Dep Ear Sci	Rice University, Department of Earth Science
 A00676	A00677	NSSTC	NASA National Space Science and Technology Center
 A00676	A00678	SLPSRA	NASA Space Life and Physical Sciences Research and Applications Laboratory
 0	A00680	NASA JSC	NASA Johnson Space Center
-0	A00681	NASA Ames	NASA Ames Research Center
+0	A00681	NASA ARC	NASA Ames Research Center
 0	A00682	NASA KSC	NASA John F. Kennedy Space Center
-0	A00684	NASA John Glenn	NASA John H. Glenn Research Center
-0	A00685	NASA Langley	NASA Langley Research Center
+0	A00684	NASA GRC	NASA John H. Glenn Research Center
+0	A00685	NASA LARC	NASA Langley Research Center
 0	A00686	NASA MSFC	NASA Marshall Space Flight Center
 0	A00687	NASA Stennis	NASA Stennis Space Center
 0	A00688	NASA Wallops	NASA Wallops Flight Facility
@@ -1646,7 +1646,7 @@ A01127	A01128	Inst Cosmo Grav	University of Portsmouth, Institute of Cosmology a
 A01127	A11768	SEPnet	South East Physics Network
 0	A01129	Clarkson U	Clarkson University, New York
 0	A01130	Vassar Coll	Vassar College, New York
-0	A01131	TX A&M Prairie View	Texas A&M University, Prairie View
+0	A01131	TX A&M Prairie View	Prairie View A&M University, Texas
 0	A01132	U Cen Lancashire	University of Central Lancashire, UK
 A01132	A11758	Ctr Astrop	University of Central Lancashire, Centre for Astrophysics
 0	A01133	U Nrthn BC	University of Northern British Columbia, Canada
@@ -1814,6 +1814,7 @@ A01255	A11102	Dep Phy	Washington University in Saint Louis, Department of Physic
 0	A01262	Eckerd Coll	Eckerd College, Florida
 0	A01263	Stetson U	Stetson University, Florida
 0	A01264	U Virgin Islands	University of the Virgin Islands
+A01264	A06776	Albert Sheen	Albert Sheen Campus
 0	A01265	AR St U	Arkansas State University
 0	A01266	Georgia Sthrn U	Georgia Southern University
 0	A01267	Statoil ASA	Statoil ASA
@@ -1998,6 +1999,7 @@ A01397	A01400	CfA	Harvard Smithsonian Center for Astrophysics
 A01397	A11032	SAO	Smithsonian Astrophysical Observatory
 A01397	A11033	Whipple Obs	Whipple Observatory, Mt Hopkins
 0	A01401	U DC	University of the District of Columbia
+A01401	A06777	Sch Law	University of the District of Columbia, David A Clarke School of Law
 0	A01402	AAAS	American Association for the Advancement of Science
 0	A01403	American U	American University, Washington DC
 0	A01404	Catholic U	Catholic University, Washington DC
@@ -6899,7 +6901,7 @@ A05889	A05890	AIBS	Allen Institute for Brain Science, Washington
 0	A05897	Talladega Coll	Talladega College, Alabama
 0	A05898	Phil Smith Coll	Philander Smith College, Arkansas
 0	A05899	CDUMS	Charles Drew University of Medicine & Science, California
-0	A05900	Behune Cookman U	Bethune Cookman University, Florida
+0	A05900	Bethune-Cookman U	Bethune-Cookman University, Florida
 0	A05901	Edward Waters Coll	Edward Waters College, Florida
 0	A05902	FL Mem U	Florida Memorial University, Florida
 0	A05903	Albany St U	Albany State University, Georgia
@@ -6925,7 +6927,7 @@ A05889	A05890	AIBS	Allen Institute for Brain Science, Washington
 0	A05926	Allen U	Allen University, South Carolina
 0	A05927	Benedict Coll	Benedict College, South Carolina
 0	A05928	Claflin U	Claflin University, Ohio
-0	A05929	Morris Coll	Morris College, Ohio
+0	A05929	Morris Coll	Morris College, South Carolina
 0	A05930	Knoxville Coll	Knoxville College, Tennessee
 0	A05931	Meharry Med Coll	Meharry Medical College, Tennessee
 0	A05932	HTU	Huston-Tillotson University, Texas
@@ -7155,7 +7157,7 @@ A06180	A06182	Bruker UK	Bruker AXS, UK
 0	A06184	BAERI	Bay Area Environmental Research Institute, California
 0	A06185	GSK UK	GlaxoSmithKline, UK
 A06185	A06186	GSK US	GlaxoSmithKline, US
-0	A06187	NASA Dryden	NASA Dryden Research Center
+0	A06187	NASA Armstrong	NASA Armstrong Research Center
 0	A06189	JIC	John Innes Centre, UK
 0	A06191	U Derby	University of Derby, UK
 0	A06192	U Huddersfield	University of Huddersfield, UK
@@ -7646,6 +7648,33 @@ A06704	A03483	NCTU	National Chiao Tung University, Taiwan
 0	A06746	VNIIUS	All-Union Scientific-Research Institute of Hydrocarbon Raw Materials, Russia
 0	A06747	Dong-Eui U	Dong-Eui University, South Korea
 0	A06748	Nicholls St U	Nicholls State University, Louisiana
+0	A06749	NASA WSTF	NASA White Sands Test Facility, New Mexico
+0	A06750	Amer Bap Coll	American Baptist College, Tennessee
+0	A06751	Ark Bap Coll	Arkansas Baptist College, Arkansas
+0	A06752	Bennett Coll	Bennett College, North Carolina
+0	A06753	Bishop St CC	Bishop State Community College, Alabama
+0	A06754	Clinton Coll	Clinton College, South Carolina
+0	A06755	Coahoma CC	Coahoma Community College, Mississippi
+0	A06756	Denmark Tech College	Denmark Technical College, South Carolina
+0	A06757	Gadsden St CC	Gadsden State Community College, Alabama
+0	A06758	Trenholm St CC	H Councill Trenholm State Community College, Alabama
+0	A06759	Harris-Stowe St U	Harris-Stowe State University, Missouri
+0	A06760	Interdenom Theo Ctr	Interdenominational Theological Center, Georgia
+0	A06761	Drake St Comm Tech Coll	J. F. Drake State Community and Technical College, Alabama
+0	A06762	Lane Coll	Lane College, Tennessee
+0	A06763	Lawson St CC	Lawson State Community College, Alabama
+0	A06764	LeMoyne-Owen Coll	LeMoyne-Owen College, Tennessee
+0	A06765	Livingstone Coll	Livingstone College, North Carolina
+0	A06766	Paul Quinn Coll	Paul Quinn College, Texas
+0	A06767	Shorter Coll	Shorter College, Arkansas
+0	A06768	Simmons Coll KY	Simmons College of Kentucky
+0	A06769	Sthrn U Law Ctr	Southern University Law Center, Louisiana
+0	A06770	Sthrn U Shreveport	Southern University at Shreveport, Louisiana
+0	A06771	SW Christ Coll	Southwestern Christian College, Texas
+0	A06772	St Philip's Coll	St Philip's College, Texas
+0	A06773	VA U Lynchburg	Virginia University of Lynchburg, Virginia
+0	A06774	Voorhees Coll	Voorhees College, South Carolina
+0	A06775	Wiley Coll	Wiley College, Texas
 0	A13084	U Bamako	University of Bamako, Mali
 0	A13085	Ramon Llull U	Ramon Llull University, Barcelona
 0	A13086	Ship U	Shippensburg University, Pennsylvania

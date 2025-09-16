@@ -1063,10 +1063,10 @@ USA		A00676	NASA	NASA HQ
 USA	A00676	A00677	NSSTC	NASA National Space Science and Technology Center
 USA	A00676	A00678	SLPSRA	NASA Space Life and Physical Sciences Research and Applications Laboratory
 USA		A00680	NASA JSC	NASA Johnson Space Center
-USA		A00681	NASA Ames	NASA Ames Research Center
+USA		A00681	NASA ARC	NASA Ames Research Center
 USA		A00682	NASA KSC	NASA John F. Kennedy Space Center
-USA		A00684	NASA John Glenn	NASA John H. Glenn Research Center
-USA		A00685	NASA Langley	NASA Langley Research Center
+USA		A00684	NASA GRC	NASA John H. Glenn Research Center
+USA		A00685	NASA LARC	NASA Langley Research Center
 USA		A00686	NASA MSFC	NASA Marshall Space Flight Center
 USA		A00687	NASA Stennis	NASA Stennis Space Center
 USA		A00688	NASA Wallops	NASA Wallops Flight Facility
@@ -1814,6 +1814,7 @@ USA		A01261	Gustavus Coll	Gustavus Adolphus College, Minnesota
 USA		A01262	Eckerd Coll	Eckerd College, Florida
 USA		A01263	Stetson U	Stetson University, Florida
 USA		A01264	U Virgin Islands	University of the Virgin Islands
+USA	A01264	A06776	Albert Sheen	University of the Virgin Islands, Albert Sheen Campus
 USA		A01265	AR St U	Arkansas State University
 USA		A01266	Georgia Sthrn U	Georgia Southern University
 Norway		A01267	Statoil ASA	Statoil ASA
@@ -1998,6 +1999,7 @@ USA	A01397	A01400	CfA	Harvard Smithsonian Center for Astrophysics
 USA	A01397	A11032	SAO	Smithsonian Astrophysical Observatory
 USA	A01397	A11033	Whipple Obs	Whipple Observatory, Mt Hopkins
 USA		A01401	U DC	University of the District of Columbia
+USA	A01401	A06777	Sch Law	University of the District of Columbia, David A Clarke School of Law
 USA		A01402	AAAS	American Association for the Advancement of Science
 USA		A01403	American U	American University, Washington DC
 USA		A01404	Catholic U	Catholic University, Washington DC
@@ -6899,7 +6901,7 @@ USA		A05896	Stillman Coll	Stillman College, Alabama
 USA		A05897	Talladega Coll	Talladega College, Alabama
 USA		A05898	Phil Smith Coll	Philander Smith College, Arkansas
 USA		A05899	CDUMS	Charles Drew University of Medicine & Science, California
-USA		A05900	Behune Cookman U	Bethune Cookman University, Florida
+USA		A05900	Bethune-Cookman U	Bethune-Cookman University, Florida
 USA		A05901	Edward Waters Coll	Edward Waters College, Florida
 USA		A05902	FL Mem U	Florida Memorial University, Florida
 USA		A05903	Albany St U	Albany State University, Georgia
@@ -6925,7 +6927,7 @@ USA		A05925	Lincoln U PA	Lincoln University, Pennsylvania
 USA		A05926	Allen U	Allen University, South Carolina
 USA		A05927	Benedict Coll	Benedict College, South Carolina
 USA		A05928	Claflin U	Claflin University, Ohio
-USA		A05929	Morris Coll	Morris College, Ohio
+USA		A05929	Morris Coll	Morris College, South Carolina
 USA		A05930	Knoxville Coll	Knoxville College, Tennessee
 USA		A05931	Meharry Med Coll	Meharry Medical College, Tennessee
 USA		A05932	HTU	Huston-Tillotson University, Texas
@@ -7155,7 +7157,7 @@ UK	A06180	A06182	Bruker UK	Bruker AXS, UK
 USA		A06184	BAERI	Bay Area Environmental Research Institute, California
 UK		A06185	GSK UK	GlaxoSmithKline, UK
 USA	A06185	A06186	GSK US	GlaxoSmithKline, US
-USA		A06187	NASA Dryden	NASA Dryden Research Center
+USA		A06187	NASA Armstrong	NASA Armstrong Research Center
 UK		A06189	JIC	John Innes Centre, UK
 UK		A06191	U Derby	University of Derby, UK
 UK		A06192	U Huddersfield	University of Huddersfield, UK
@@ -7646,6 +7648,33 @@ Russia		A06745	VNIPIneft	All-Union Scientific-Research and Design Institute of t
 Russia		A06746	VNIIUS	All-Union Scientific-Research Institute of Hydrocarbon Raw Materials, Russia
 South Korea		A06747	Dong-Eui U	Dong-Eui University, South Korea
 USA		A06748	Nicholls St U	Nicholls State University, Louisiana
+USA		A06749	NASA WSTF	NASA White Sands Test Facility, New Mexico
+USA		A06750	Amer Bap Coll	American Baptist College, Tennessee
+USA		A06751	Ark Bap Coll	Arkansas Baptist College, Arkansas
+USA		A06752	Bennett Coll	Bennett College, North Carolina
+USA		A06753	Bishop St CC	Bishop State Community College, Alabama
+USA		A06754	Clinton Coll	Clinton College, South Carolina
+USA		A06755	Coahoma CC	Coahoma Community College, Mississippi
+USA		A06756	Denmark Tech College	Denmark Technical College, South Carolina
+USA		A06757	Gadsden St CC	Gadsden State Community College, Alabama
+USA		A06758	Trenholm St CC	H Councill Trenholm State Community College, Alabama
+USA		A06759	Harris-Stowe St U	Harris-Stowe State University, Missouri
+USA		A06760	Interdenom Theo Ctr	Interdenominational Theological Center, Georgia
+USA		A06761	Drake St Comm Tech Coll	J. F. Drake State Community and Technical College, Alabama
+USA		A06762	Lane Coll	Lane College, Tennessee
+USA		A06763	Lawson St CC	Lawson State Community College, Alabama
+USA		A06764	LeMoyne-Owen Coll	LeMoyne-Owen College, Tennessee
+USA		A06765	Livingstone Coll	Livingstone College, North Carolina
+USA		A06766	Paul Quinn Coll	Paul Quinn College, Texas
+USA		A06767	Shorter Coll	Shorter College, Arkansas
+USA		A06768	Simmons Coll KY	Simmons College of Kentucky
+USA		A06769	Sthrn U Law Ctr	Southern University Law Center, Louisiana
+USA		A06770	Sthrn U Shreveport	Southern University at Shreveport, Louisiana
+USA		A06771	SW Christ Coll	Southwestern Christian College, Texas
+USA		A06772	St Philip's Coll	St Philip's College, Texas
+USA		A06773	VA U Lynchburg	Virginia University of Lynchburg, Virginia
+USA		A06774	Voorhees Coll	Voorhees College, South Carolina
+USA		A06775	Wiley Coll	Wiley College, Texas
 Mali		A13084	U Bamako	University of Bamako, Mali
 Spain		A13085	Ramon Llull U	Ramon Llull University, Barcelona
 USA		A13086	Ship U	Shippensburg University, Pennsylvania

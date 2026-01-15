@@ -20,7 +20,7 @@ inst:   the abbreviated institution name (e.g. "U Adelaide") listed in the
 
 Examples:
 
-aff:Harvard (139K)              # returns any affiliation with Harvard, e.g.
+aff:Harvard (139K)              # returns any affiliation with "Harvard", e.g.
                                 # Harvard Street
 
 aff:"Harvard University" (69K)  # returns affiliations containing the phrase

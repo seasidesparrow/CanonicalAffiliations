@@ -32,7 +32,7 @@ If you want to discuss additional applications or see more of this work, please
 get in touch.
 
 Carolyn Stern Grant
-NASA ADS Abstract Service
+NASA Astrophysics Data System
 Harvard-Smithsonian Center for Astrophysics
 cgrant@cfa.harvard.edu
 

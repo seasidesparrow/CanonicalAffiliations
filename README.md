@@ -1,7 +1,7 @@
 # CanonicalAffiliations
-This repo contains files which help the ADS Abstract Service clean up and group institutional affiliations.
+This repository contains the current set of institutional identifiers used by SciX and ADS to map institutional affiliations in their search engine.
 
-13 January 2026
+08 May 2026
 
 These are files used by the ADS Abstract Service (ui.adsabs.harvard.edu)
 to normalize institutional affiliations.  The following files are included:
@@ -19,7 +19,7 @@ to normalize institutional affiliations.  The following files are included:
 - tribal_colleges_universities.tsv, a tab separated file containing:
   - `child id`, `canonical affiliation`
   - Includes only tribally-controlled institutions
-  - Does not include public schools in the US with significant Native American/First Nations enrollment
+  - Does not include public universities in the US with significant Native American/First Nations enrollment
 
 - ROR_ADS.tsv, a tab separated file containing:
   - `ROR`, `ads_id` where ads_id might be a parent/child combination 
